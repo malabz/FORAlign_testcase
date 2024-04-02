@@ -1,0 +1,812 @@
+[
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "CoVID-19_20000",
+        "Benchmark": {
+            "TimeFullAlign": "37.2415s",
+            "TimePercent": 99.57000000000002,
+            "SingleAvg": "3.7235000000000005s",
+            "SingleMin": "3.26s",
+            "SingleMax": "7.56s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 13733528,
+            "VoluntaryContextSwitch": 0.9,
+            "InvoluntaryContextSwitch": 161.2
+        }
+    },
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "16.32s",
+            "TimePercent": 99.44300000000001,
+            "SingleAvg": "1.6325000000000003s",
+            "SingleMin": "1.04s",
+            "SingleMax": "3.95s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 7002920,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 69.1
+        }
+    },
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "7.999499999999997s",
+            "TimePercent": 99.40249999999999,
+            "SingleAvg": "799.93ms",
+            "SingleMin": "511.21ms",
+            "SingleMax": "1.77s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 3265696,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 30.6
+        }
+    },
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "12.2455s",
+            "TimePercent": 99.50250000000001,
+            "SingleAvg": "1.2245000000000001s",
+            "SingleMin": "1.09s",
+            "SingleMax": "2.14s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 3671620,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 49.9
+        }
+    },
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "3.1010000000000004s",
+            "TimePercent": 99.392,
+            "SingleAvg": "310.12049999999994ms",
+            "SingleMin": "269.5ms",
+            "SingleMax": "572.53ms",
+            "CPUPercent": 99.0,
+            "MaxMemory": 945252,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 7.5
+        }
+    },
+    {
+        "TestCase1": "CoVID-19_20000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "10.8015s",
+            "TimePercent": 99.5195,
+            "SingleAvg": "1.0805s",
+            "SingleMin": "922.03ms",
+            "SingleMax": "1.91s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 3436948,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 43.9
+        }
+    },
+    {
+        "TestCase1": "GMGC_10000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "6.752s",
+            "TimePercent": 98.99000000000001,
+            "SingleAvg": "675.2104999999999ms",
+            "SingleMin": "326.56ms",
+            "SingleMax": "1.96s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 4329800,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 23.8
+        }
+    },
+    {
+        "TestCase1": "GMGC_10000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "3.369s",
+            "TimePercent": 98.9045,
+            "SingleAvg": "336.8315ms",
+            "SingleMin": "173.7ms",
+            "SingleMax": "1.16s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 2305908,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 9.0
+        }
+    },
+    {
+        "TestCase1": "GMGC_10000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "1.3394999999999997s",
+            "TimePercent": 98.8685,
+            "SingleAvg": "133.93650000000002ms",
+            "SingleMin": "79.47ms",
+            "SingleMax": "352.07ms",
+            "CPUPercent": 99.1,
+            "MaxMemory": 663908,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 2.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_10000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "4.6915s",
+            "TimePercent": 99.00949999999997,
+            "SingleAvg": "469.1375ms",
+            "SingleMin": "278.98ms",
+            "SingleMax": "1.02s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 2485944,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 13.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "CoVID-19_20000",
+        "Benchmark": {
+            "TimeFullAlign": "29.348000000000003s",
+            "TimePercent": 99.44000000000001,
+            "SingleAvg": "2.9345s",
+            "SingleMin": "1.23s",
+            "SingleMax": "5.74s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 14989272,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 127.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "12.996499999999997s",
+            "TimePercent": 99.384,
+            "SingleAvg": "1.2995s",
+            "SingleMin": "552.3ms",
+            "SingleMax": "2.89s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 8514144,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 49.9
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "GMGC_20000",
+        "Benchmark": {
+            "TimeFullAlign": "24.181499999999996s",
+            "TimePercent": 99.447,
+            "SingleAvg": "2.4189999999999996s",
+            "SingleMin": "1.45s",
+            "SingleMax": "5.15s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 13840276,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 103.0
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "6.1385s",
+            "TimePercent": 99.296,
+            "SingleAvg": "613.81ms",
+            "SingleMin": "374.42ms",
+            "SingleMax": "1.51s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 3336184,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 18.8
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "10.337s",
+            "TimePercent": 99.4265,
+            "SingleAvg": "1.0344145s",
+            "SingleMin": "495.0ms",
+            "SingleMax": "1.99s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 5199680,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 38.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "2.62s",
+            "TimePercent": 99.32300000000001,
+            "SingleAvg": "262.05150000000003ms",
+            "SingleMin": "172.6ms",
+            "SingleMax": "528.95ms",
+            "CPUPercent": 99.2,
+            "MaxMemory": 1323816,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 4.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_20000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "9.082500000000001s",
+            "TimePercent": 99.4405,
+            "SingleAvg": "908.3539999999999ms",
+            "SingleMin": "528.71ms",
+            "SingleMax": "1.87s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 4617660,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 21.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "CoVID-19_20000",
+        "Benchmark": {
+            "TimeFullAlign": "38.66750000000001s",
+            "TimePercent": 99.58600000000001,
+            "SingleAvg": "3.867s",
+            "SingleMin": "3.28s",
+            "SingleMax": "6.65s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 13448304,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 70.6
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "17.8005s",
+            "TimePercent": 99.49849999999999,
+            "SingleAvg": "1.7794999999999999s",
+            "SingleMin": "1.09s",
+            "SingleMax": "4.11s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 8868264,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 51.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "GMGC_20000",
+        "Benchmark": {
+            "TimeFullAlign": "32.733000000000004s",
+            "TimePercent": 99.584,
+            "SingleAvg": "3.274s",
+            "SingleMin": "2.28s",
+            "SingleMax": "6.51s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 13600064,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 153.4
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "GMGC_30000",
+        "Benchmark": {
+            "TimeFullAlign": "44.007999999999996s",
+            "TimePercent": 99.605,
+            "SingleAvg": "4.401s",
+            "SingleMin": "3.34s",
+            "SingleMax": "10.43s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 18428836,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 431.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "10.439499999999999s",
+            "TimePercent": 99.51550000000002,
+            "SingleAvg": "1.0433555s",
+            "SingleMin": "421.08ms",
+            "SingleMax": "2.36s",
+            "CPUPercent": 99.2,
+            "MaxMemory": 4047980,
+            "VoluntaryContextSwitch": 0.8,
+            "InvoluntaryContextSwitch": 22.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "17.2065s",
+            "TimePercent": 99.5965,
+            "SingleAvg": "1.72s",
+            "SingleMin": "1.18s",
+            "SingleMax": "3.28s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 4893744,
+            "VoluntaryContextSwitch": 0.8,
+            "InvoluntaryContextSwitch": 31.2
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "4.51s",
+            "TimePercent": 99.5585,
+            "SingleAvg": "451.116ms",
+            "SingleMin": "343.28ms",
+            "SingleMax": "1.09s",
+            "CPUPercent": 99.3,
+            "MaxMemory": 1244512,
+            "VoluntaryContextSwitch": 0.8,
+            "InvoluntaryContextSwitch": 9.3
+        }
+    },
+    {
+        "TestCase1": "GMGC_30000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "14.355500000000001s",
+            "TimePercent": 99.59200000000001,
+            "SingleAvg": "1.4360000000000002s",
+            "SingleMin": "721.78ms",
+            "SingleMax": "2.86s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 4594972,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 35.1
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "CoVID-19_20000",
+        "Benchmark": {
+            "TimeFullAlign": "1.2945m",
+            "TimePercent": 93.5725,
+            "SingleAvg": "7.774500000000001s",
+            "SingleMin": "4.07s",
+            "SingleMax": "22.39s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 50884984,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 348.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "38.02850000000001s",
+            "TimePercent": 91.668,
+            "SingleAvg": "3.8020000000000005s",
+            "SingleMin": "1.46s",
+            "SingleMax": "11.49s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 28142352,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 191.7
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "GMGC_20000",
+        "Benchmark": {
+            "TimeFullAlign": "1.2079583333333337m",
+            "TimePercent": 92.26450000000001,
+            "SingleAvg": "7.242999999999999s",
+            "SingleMin": "2.73s",
+            "SingleMax": "20.59s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 49710084,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 370.0
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "GMGC_30000",
+        "Benchmark": {
+            "TimeFullAlign": "1.5709083333333331m",
+            "TimePercent": 91.3255,
+            "SingleAvg": "9.42s",
+            "SingleMin": "4.26s",
+            "SingleMax": "22.33s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 53054172,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 513.4
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "GMGC_40000",
+        "Benchmark": {
+            "TimeFullAlign": "2.7489999999999997m",
+            "TimePercent": 90.66699999999999,
+            "SingleAvg": "16.493000000000002s",
+            "SingleMin": "5.54s",
+            "SingleMax": "50.24s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 117802480,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 953.8
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "19.619s",
+            "TimePercent": 90.423,
+            "SingleAvg": "1.9620000000000002s",
+            "SingleMin": "727.44ms",
+            "SingleMax": "5.4s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 12390956,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 92.1
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "33.3015s",
+            "TimePercent": 91.2155,
+            "SingleAvg": "3.3305s",
+            "SingleMin": "1.46s",
+            "SingleMax": "12.51s",
+            "CPUPercent": 97.5,
+            "MaxMemory": 15925424,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 414.0
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "10.601s",
+            "TimePercent": 90.9195,
+            "SingleAvg": "1.0604035000000003s",
+            "SingleMin": "444.96ms",
+            "SingleMax": "2.7s",
+            "CPUPercent": 91.5,
+            "MaxMemory": 4935700,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 263.1
+        }
+    },
+    {
+        "TestCase1": "GMGC_40000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "30.357500000000005s",
+            "TimePercent": 90.67299999999999,
+            "SingleAvg": "3.0349999999999997s",
+            "SingleMin": "1.16s",
+            "SingleMax": "10.4s",
+            "CPUPercent": 95.4,
+            "MaxMemory": 16911312,
+            "VoluntaryContextSwitch": 0.6,
+            "InvoluntaryContextSwitch": 697.3
+        }
+    },
+    {
+        "TestCase1": "GMGC_5000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "1.498s",
+            "TimePercent": 98.1,
+            "SingleAvg": "149.794ms",
+            "SingleMin": "59.73ms",
+            "SingleMax": "442.43ms",
+            "CPUPercent": 99.1,
+            "MaxMemory": 901428,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 3.5
+        }
+    },
+    {
+        "TestCase1": "GMGC_5000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "562.3594999999999ms",
+            "TimePercent": 97.91499999999999,
+            "SingleAvg": "56.23499999999999ms",
+            "SingleMin": "29.1ms",
+            "SingleMax": "146.97ms",
+            "CPUPercent": 99.2,
+            "MaxMemory": 295020,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 1.6
+        }
+    },
+    {
+        "TestCase1": "HIV_10000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "5.0555s",
+            "TimePercent": 98.7785,
+            "SingleAvg": "505.5425ms",
+            "SingleMin": "312.08ms",
+            "SingleMax": "1.37s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 2435520,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 17.9
+        }
+    },
+    {
+        "TestCase1": "HIV_10000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "2.5460000000000003s",
+            "TimePercent": 98.75649999999999,
+            "SingleAvg": "254.58350000000004ms",
+            "SingleMin": "160.06ms",
+            "SingleMax": "637.41ms",
+            "CPUPercent": 99.0,
+            "MaxMemory": 1202828,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 5.9
+        }
+    },
+    {
+        "TestCase1": "HIV_10000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "3.8265s",
+            "TimePercent": 98.88850000000001,
+            "SingleAvg": "382.5445ms",
+            "SingleMin": "320.25ms",
+            "SingleMax": "775.13ms",
+            "CPUPercent": 99.0,
+            "MaxMemory": 1272876,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 11.4
+        }
+    },
+    {
+        "TestCase1": "HIV_10000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "963.7745000000001ms",
+            "TimePercent": 98.7585,
+            "SingleAvg": "96.3785ms",
+            "SingleMin": "77.78ms",
+            "SingleMax": "212.91ms",
+            "CPUPercent": 99.2,
+            "MaxMemory": 325640,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 2.4
+        }
+    },
+    {
+        "TestCase1": "HIV_10000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "3.3244999999999996s",
+            "TimePercent": 98.82050000000001,
+            "SingleAvg": "332.2985ms",
+            "SingleMin": "263.48ms",
+            "SingleMax": "711.53ms",
+            "CPUPercent": 99.0,
+            "MaxMemory": 1201484,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 7.7
+        }
+    },
+    {
+        "TestCase1": "HIV_2000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "163.98149999999998ms",
+            "TimePercent": 94.794,
+            "SingleAvg": "16.398000000000003ms",
+            "SingleMin": "12.11ms",
+            "SingleMax": "47.26ms",
+            "CPUPercent": 99.0,
+            "MaxMemory": 90420,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 1.2
+        }
+    },
+    {
+        "TestCase1": "HIV_5000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "2.1959999999999997s",
+            "TimePercent": 98.62899999999999,
+            "SingleAvg": "219.54250000000002ms",
+            "SingleMin": "133.43ms",
+            "SingleMax": "564.24ms",
+            "CPUPercent": 99.2,
+            "MaxMemory": 1139568,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 4.3
+        }
+    },
+    {
+        "TestCase1": "HIV_5000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "837.0685ms",
+            "TimePercent": 98.7355,
+            "SingleAvg": "83.70800000000001ms",
+            "SingleMin": "65.62ms",
+            "SingleMax": "189.19ms",
+            "CPUPercent": 99.2,
+            "MaxMemory": 331980,
+            "VoluntaryContextSwitch": 0.7,
+            "InvoluntaryContextSwitch": 2.7
+        }
+    },
+    {
+        "TestCase1": "HIV_5000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "2.9125000000000005s",
+            "TimePercent": 98.94800000000001,
+            "SingleAvg": "291.21500000000003ms",
+            "SingleMin": "209.4ms",
+            "SingleMax": "611.52ms",
+            "CPUPercent": 99.3,
+            "MaxMemory": 1155800,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 6.8
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "CoVID-19_20000",
+        "Benchmark": {
+            "TimeFullAlign": "6.739999999999998m",
+            "TimePercent": 90.46233333333332,
+            "SingleAvg": "40.441500000000005s",
+            "SingleMin": "38.95s",
+            "SingleMax": "44.26s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 71599792,
+            "VoluntaryContextSwitch": 1.5,
+            "InvoluntaryContextSwitch": 2363.7
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "GMGC_10000",
+        "Benchmark": {
+            "TimeFullAlign": "2.8665000000000003m",
+            "TimePercent": 89.841,
+            "SingleAvg": "17.206s",
+            "SingleMin": "13.03s",
+            "SingleMax": "26.77s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 44635332,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 1042.0
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "GMGC_20000",
+        "Benchmark": {
+            "TimeFullAlign": "5.377999999999999m",
+            "TimePercent": 90.3105,
+            "SingleAvg": "32.2695s",
+            "SingleMin": "25.35s",
+            "SingleMax": "41.25s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 69070720,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 1309.7
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "GMGC_30000",
+        "Benchmark": {
+            "TimeFullAlign": "7.2764999999999995m",
+            "TimePercent": 90.5235,
+            "SingleAvg": "43.656000000000006s",
+            "SingleMin": "39.87s",
+            "SingleMax": "54.12s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 90723636,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 2271.6
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "GMGC_40000",
+        "Benchmark": {
+            "TimeFullAlign": "12.5215m",
+            "TimePercent": 88.0315,
+            "SingleAvg": "1.2521333333333335m",
+            "SingleMin": "32.83s",
+            "SingleMax": "322.62s",
+            "CPUPercent": 96.2,
+            "MaxMemory": 167423292,
+            "VoluntaryContextSwitch": 300168.6,
+            "InvoluntaryContextSwitch": 70621.1
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "GMGC_5000",
+        "Benchmark": {
+            "TimeFullAlign": "1.4894999999999998m",
+            "TimePercent": 89.1615,
+            "SingleAvg": "8.929s",
+            "SingleMin": "6.81s",
+            "SingleMax": "14.14s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 23036332,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 502.8
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "HIV_10000",
+        "Benchmark": {
+            "TimeFullAlign": "2.3300000000000005m",
+            "TimePercent": 89.71000000000001,
+            "SingleAvg": "13.988499999999998s",
+            "SingleMin": "13.54s",
+            "SingleMax": "14.96s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 24929172,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 803.9
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "HIV_2000",
+        "Benchmark": {
+            "TimeFullAlign": "27.399s",
+            "TimePercent": 86.547,
+            "SingleAvg": "2.739s",
+            "SingleMin": "1.92s",
+            "SingleMax": "3.86s",
+            "CPUPercent": 99.0,
+            "MaxMemory": 6171732,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 153.0
+        }
+    },
+    {
+        "TestCase1": "MPoX_190000",
+        "TestCase2": "HIV_5000",
+        "Benchmark": {
+            "TimeFullAlign": "2.0564999999999998m",
+            "TimePercent": 89.6435,
+            "SingleAvg": "12.3445s",
+            "SingleMin": "11.07s",
+            "SingleMax": "13.47s",
+            "CPUPercent": 99.1,
+            "MaxMemory": 22574440,
+            "VoluntaryContextSwitch": 1.0,
+            "InvoluntaryContextSwitch": 685.3
+        }
+    }
+]
