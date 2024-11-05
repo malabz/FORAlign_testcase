@@ -400,6 +400,34 @@
                     "MaxMemory": 0.009246276703262264
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "46.5905s",
+                "TimePercent": 99.7725,
+                "SingleAvg": "4.659000000000001s",
+                "SingleMin": "4.53s",
+                "SingleMax": "4.69s",
+                "Correct": 10.0,
+                "ShorterCorrect": 0.0,
+                "Shorter": 0.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 148.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10207016451851776,
+                    "TimePercent": -5.0434999999999945,
+                    "SingleAvg": 0.10209207984546038,
+                    "CPUPercent": 0.010431594031863778,
+                    "MaxMemory": 0.00015188335358444713
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7993367746643629,
+                    "TimePercent": -0.20249999999997215,
+                    "SingleAvg": 0.7992058381626959,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0001491240997943136
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "37.2415s",
                 "TimePercent": 99.57000000000002,
@@ -684,6 +712,34 @@
                     "SingleAvg": 0.20003676020095582,
                     "CPUPercent": 252.85454545454544,
                     "MaxMemory": 0.028476692579666767
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "18.125999999999998s",
+                "TimePercent": 99.66600000000001,
+                "SingleAvg": "1.812s",
+                "SingleMin": "1.35s",
+                "SingleMax": "2.91s",
+                "Correct": 10.0,
+                "ShorterCorrect": 3.5,
+                "Shorter": 7.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 62.9,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1260344256868587,
+                    "TimePercent": -4.409999999999997,
+                    "SingleAvg": 0.12608830022075057,
+                    "CPUPercent": 0.011846923389895412,
+                    "MaxMemory": 0.0003036744609778318
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9003641178417744,
+                    "TimePercent": -0.22299999999999898,
+                    "SingleAvg": 0.9009381898454747,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.000292449435378385
                 }
             },
             "Benchmark": {
@@ -972,6 +1028,34 @@
                     "MaxMemory": 0.03823136017559503
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "8.847999999999999s",
+                "TimePercent": 99.65650000000001,
+                "SingleAvg": "885.121ms",
+                "SingleMin": "678.14ms",
+                "SingleMax": "1.25s",
+                "Correct": 9.2,
+                "ShorterCorrect": 2.6,
+                "Shorter": 5.4,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 18.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1490167269439422,
+                    "TimePercent": -3.708500000000015,
+                    "SingleAvg": 0.1489598597253935,
+                    "CPUPercent": 0.012454710144927536,
+                    "MaxMemory": 0.0006779661016949153
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9041026220614825,
+                    "TimePercent": -0.2540000000000191,
+                    "SingleAvg": 0.9037521423624566,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0006271251212605215
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "7.999499999999997s",
                 "TimePercent": 99.40249999999999,
@@ -1256,6 +1340,34 @@
                     "SingleAvg": 0.16182106515131495,
                     "CPUPercent": 252.70808080808078,
                     "MaxMemory": 0.05498172468828474
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "13.916s",
+                "TimePercent": 99.7295,
+                "SingleAvg": "1.391s",
+                "SingleMin": "1.35s",
+                "SingleMax": "1.41s",
+                "Correct": 9.9,
+                "ShorterCorrect": 2.7,
+                "Shorter": 5.5,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 25.0,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1319344639264156,
+                    "TimePercent": -3.728499999999997,
+                    "SingleAvg": 0.13205895039539903,
+                    "CPUPercent": 0.011461417468541821,
+                    "MaxMemory": 0.0005885815185403178
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8799583213567117,
+                    "TimePercent": -0.22699999999998965,
+                    "SingleAvg": 0.8803019410496047,
+                    "CPUPercent": 1.001010101010101,
+                    "MaxMemory": 0.0005577919283585992
                 }
             },
             "Benchmark": {
@@ -1544,6 +1656,34 @@
                     "MaxMemory": 0.056336299738059266
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.4835000000000003s",
+                "TimePercent": 99.67049999999999,
+                "SingleAvg": "348.27250000000004ms",
+                "SingleMin": "324.65ms",
+                "SingleMax": "363.58ms",
+                "Correct": 9.1,
+                "ShorterCorrect": 1.5,
+                "Shorter": 3.2,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 5.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1857661834361992,
+                    "TimePercent": -2.750499999999988,
+                    "SingleAvg": 0.18580709071201423,
+                    "CPUPercent": 0.013353235436501533,
+                    "MaxMemory": 0.0025575447570332483
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8901966413090283,
+                    "TimePercent": -0.278499999999994,
+                    "SingleAvg": 0.890453595962931,
+                    "CPUPercent": 1.003030303030303,
+                    "MaxMemory": 0.0021666180023951283
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "3.1010000000000004s",
                 "TimePercent": 99.392,
@@ -1828,6 +1968,34 @@
                     "SingleAvg": 0.15778329439252334,
                     "CPUPercent": 252.9171717171717,
                     "MaxMemory": 0.05301913209044769
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "12.101s",
+                "TimePercent": 99.7055,
+                "SingleAvg": "1.2109999999999999s",
+                "SingleMin": "1.13s",
+                "SingleMax": "1.32s",
+                "Correct": 10.0,
+                "ShorterCorrect": 3.8,
+                "Shorter": 7.6,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 19.1,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.13643500537145692,
+                    "TimePercent": -3.752999999999986,
+                    "SingleAvg": 0.13628530140379855,
+                    "CPUPercent": 0.011878816908154712,
+                    "MaxMemory": 0.0006385696040868455
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8926121808115032,
+                    "TimePercent": -0.18600000000000705,
+                    "SingleAvg": 0.8922378199834848,
+                    "CPUPercent": 1.002020202020202,
+                    "MaxMemory": 0.0005958775052750289
                 }
             },
             "Benchmark": {
@@ -2116,6 +2284,34 @@
                     "MaxMemory": 0.031067485796110676
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "7.811s",
+                "TimePercent": 98.41549999999998,
+                "SingleAvg": "781.1055ms",
+                "SingleMin": "463.8ms",
+                "SingleMax": "1.53s",
+                "Correct": 9.8,
+                "ShorterCorrect": 2.4,
+                "Shorter": 4.8,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 16.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.21111253360645246,
+                    "TimePercent": -3.17349999999999,
+                    "SingleAvg": 0.21107456035068245,
+                    "CPUPercent": 0.014462960533030079,
+                    "MaxMemory": 0.0005012531328320802
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8644219690180515,
+                    "TimePercent": 0.5745000000000289,
+                    "SingleAvg": 0.8644293248479238,
+                    "CPUPercent": 1.0010090817356208,
+                    "MaxMemory": 0.00047300106240473
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "6.752s",
                 "TimePercent": 98.99000000000001,
@@ -2400,6 +2596,34 @@
                     "SingleAvg": 0.1162089011557702,
                     "CPUPercent": 250.52424242424243,
                     "MaxMemory": 0.048220484078289334
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.8114999999999997s",
+                "TimePercent": 98.42550000000001,
+                "SingleAvg": "381.095ms",
+                "SingleMin": "248.04ms",
+                "SingleMax": "825.1ms",
+                "Correct": 9.7,
+                "ShorterCorrect": 2.7,
+                "Shorter": 5.4,
+                "CPUPercent": 99.6,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 7.0,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.2396353141807687,
+                    "TimePercent": -2.5830000000000126,
+                    "SingleAvg": 0.2396567784935515,
+                    "CPUPercent": 0.014764304773198933,
+                    "MaxMemory": 0.000999000999000999
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8839039748130658,
+                    "TimePercent": 0.478999999999985,
+                    "SingleAvg": 0.8838517954840656,
+                    "CPUPercent": 1.006060606060606,
+                    "MaxMemory": 0.000888153386865391
                 }
             },
             "Benchmark": {
@@ -2688,6 +2912,34 @@
                     "MaxMemory": 0.07683594714930382
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.5485s",
+                "TimePercent": 98.37,
+                "SingleAvg": "154.93900000000002ms",
+                "SingleMin": "116.77ms",
+                "SingleMax": "228.63ms",
+                "Correct": 8.9,
+                "ShorterCorrect": 1.9,
+                "Shorter": 4.3,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 2.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.2870029060381014,
+                    "TimePercent": -1.7005000000000052,
+                    "SingleAvg": 0.2868386913559529,
+                    "CPUPercent": 0.014986190972065015,
+                    "MaxMemory": 0.0043859649122807015
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8650306748466255,
+                    "TimePercent": 0.49849999999999284,
+                    "SingleAvg": 0.8644466531990009,
+                    "CPUPercent": 1.0020181634712413,
+                    "MaxMemory": 0.003084764756562656
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "1.3394999999999997s",
                 "TimePercent": 98.8685,
@@ -2972,6 +3224,34 @@
                     "SingleAvg": 0.14143427796201385,
                     "CPUPercent": 251.4121212121212,
                     "MaxMemory": 0.05234228928728885
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "5.399s",
+                "TimePercent": 98.5215,
+                "SingleAvg": "539.9415ms",
+                "SingleMin": "395.23ms",
+                "SingleMax": "861.18ms",
+                "Correct": 9.6,
+                "ShorterCorrect": 3.0,
+                "Shorter": 6.1,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 9.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.22068901648453412,
+                    "TimePercent": -3.017499999999984,
+                    "SingleAvg": 0.22061556668639104,
+                    "CPUPercent": 0.014616267773558244,
+                    "MaxMemory": 0.0009182736455463728
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8689572142989441,
+                    "TimePercent": 0.4879999999999711,
+                    "SingleAvg": 0.8688672754363204,
+                    "CPUPercent": 1.003030303030303,
+                    "MaxMemory": 0.0008238319125450935
                 }
             },
             "Benchmark": {
@@ -3260,6 +3540,34 @@
                     "MaxMemory": 0.016507806383125212
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "37.265499999999996s",
+                "TimePercent": 99.33000000000001,
+                "SingleAvg": "3.7265s",
+                "SingleMin": "3.12s",
+                "SingleMax": "4.58s",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.0,
+                "Shorter": 2.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 77.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.11934631227274557,
+                    "TimePercent": -4.591499999999996,
+                    "SingleAvg": 0.11936119683348985,
+                    "CPUPercent": 0.012304556414526834,
+                    "MaxMemory": 0.00013902405116085083
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.787538071406529,
+                    "TimePercent": 0.10999999999999943,
+                    "SingleAvg": 0.7874681336374614,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.00013663105186162476
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "29.348000000000003s",
                 "TimePercent": 99.44000000000001,
@@ -3544,6 +3852,34 @@
                     "SingleAvg": 0.17399745598179023,
                     "CPUPercent": 252.73939393939395,
                     "MaxMemory": 0.024055970864481503
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "14.438000000000002s",
+                "TimePercent": 99.1805,
+                "SingleAvg": "1.4435s",
+                "SingleMin": "937.04ms",
+                "SingleMax": "2.53s",
+                "Correct": 9.9,
+                "ShorterCorrect": 2.5,
+                "Shorter": 5.1,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 29.9,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1460382324421665,
+                    "TimePercent": -3.498499999999993,
+                    "SingleAvg": 0.14601731901627987,
+                    "CPUPercent": 0.01260525579383856,
+                    "MaxMemory": 0.00024807740014884643
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9001593018423601,
+                    "TimePercent": 0.20350000000000534,
+                    "SingleAvg": 0.9002424662279184,
+                    "CPUPercent": 1.001010101010101,
+                    "MaxMemory": 0.0002405409163857224
                 }
             },
             "Benchmark": {
@@ -3832,6 +4168,34 @@
                     "MaxMemory": 0.016007773255388838
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "28.8s",
+                "TimePercent": 99.233,
+                "SingleAvg": "2.8805s",
+                "SingleMin": "2.01s",
+                "SingleMax": "4.25s",
+                "Correct": 9.9,
+                "ShorterCorrect": 0.9,
+                "Shorter": 1.8,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 63.9,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.12352430555555556,
+                    "TimePercent": -4.257500000000007,
+                    "SingleAvg": 0.1235306370421802,
+                    "CPUPercent": 0.01233876885953456,
+                    "MaxMemory": 0.00015082956259426848
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8396354166666665,
+                    "TimePercent": 0.21399999999999864,
+                    "SingleAvg": 0.8397847595903487,
+                    "CPUPercent": 1.002020202020202,
+                    "MaxMemory": 0.00014797392768756923
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "24.181499999999996s",
                 "TimePercent": 99.447,
@@ -4116,6 +4480,34 @@
                     "SingleAvg": 0.12778390756739877,
                     "CPUPercent": 252.14040404040406,
                     "MaxMemory": 0.03508439582469072
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "6.830500000000001s",
+                "TimePercent": 99.157,
+                "SingleAvg": "683.1015ms",
+                "SingleMin": "471.74ms",
+                "SingleMax": "1.13s",
+                "Correct": 9.5,
+                "ShorterCorrect": 3.3,
+                "Shorter": 6.6,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 13.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.17199070346241122,
+                    "TimePercent": -3.004499999999993,
+                    "SingleAvg": 0.17209082398442982,
+                    "CPUPercent": 0.014305471518713805,
+                    "MaxMemory": 0.0006591957811470006
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8986897006075688,
+                    "TimePercent": 0.13900000000001,
+                    "SingleAvg": 0.8985633906527799,
+                    "CPUPercent": 1.003030303030303,
+                    "MaxMemory": 0.000613875014087952
                 }
             },
             "Benchmark": {
@@ -4404,6 +4796,34 @@
                     "MaxMemory": 0.03811773032186596
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "11.474s",
+                "TimePercent": 99.19999999999999,
+                "SingleAvg": "1.1469999999999998s",
+                "SingleMin": "943.97ms",
+                "SingleMax": "1.4s",
+                "Correct": 10.0,
+                "ShorterCorrect": 3.8,
+                "Shorter": 7.8,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 25.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.14497995468014643,
+                    "TimePercent": -3.5080000000000098,
+                    "SingleAvg": 0.1449415867480384,
+                    "CPUPercent": 0.01249448957742931,
+                    "MaxMemory": 0.00041425020712510354
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9009063970716402,
+                    "TimePercent": 0.2265000000000157,
+                    "SingleAvg": 0.9018435047951179,
+                    "CPUPercent": 1.002020202020202,
+                    "MaxMemory": 0.0003938703920241246
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "10.337s",
                 "TimePercent": 99.4265,
@@ -4688,6 +5108,34 @@
                     "SingleAvg": 0.10600788834951458,
                     "CPUPercent": 250.7641129032258,
                     "MaxMemory": 0.04055850662025538
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "2.912s",
+                "TimePercent": 99.15349999999998,
+                "SingleAvg": "291.1675ms",
+                "SingleMin": "234.48ms",
+                "SingleMax": "356.94ms",
+                "Correct": 9.0,
+                "ShorterCorrect": 1.6,
+                "Shorter": 3.6,
+                "CPUPercent": 99.4,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 0.9,
+                "InvoluntaryContextSwitch": 5.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.20187499999999997,
+                    "TimePercent": -2.3654999999999973,
+                    "SingleAvg": 0.2018975332068311,
+                    "CPUPercent": 0.0136822254951892,
+                    "MaxMemory": 0.001876172607879925
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8997252747252747,
+                    "TimePercent": 0.16950000000002774,
+                    "SingleAvg": 0.9000025758369324,
+                    "CPUPercent": 1.002016129032258,
+                    "MaxMemory": 0.0015470427914453368
                 }
             },
             "Benchmark": {
@@ -4976,6 +5424,34 @@
                     "MaxMemory": 0.03686369286608369
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "9.921500000000002s",
+                "TimePercent": 99.21799999999999,
+                "SingleAvg": "992.6829999999999ms",
+                "SingleMin": "762.83ms",
+                "SingleMax": "1.3s",
+                "Correct": 9.8,
+                "ShorterCorrect": 3.6,
+                "Shorter": 7.5,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 18.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.15627677266542356,
+                    "TimePercent": -3.3575000000000017,
+                    "SingleAvg": 0.15616616785015963,
+                    "CPUPercent": 0.013430004065591543,
+                    "MaxMemory": 0.00046882325363338024
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9154361739656302,
+                    "TimePercent": 0.2225000000000108,
+                    "SingleAvg": 0.9150494165811242,
+                    "CPUPercent": 1.001010101010101,
+                    "MaxMemory": 0.0004435146805957996
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "9.082500000000001s",
                 "TimePercent": 99.4405,
@@ -5260,6 +5736,34 @@
                     "SingleAvg": 0.3752729390072298,
                     "CPUPercent": 253.28456104944502,
                     "MaxMemory": 0.02137429373993925
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "48.932500000000005s",
+                "TimePercent": 99.68950000000001,
+                "SingleAvg": "4.8925s",
+                "SingleMin": "4.65s",
+                "SingleMax": "5.96s",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.6,
+                "Shorter": 3.2,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 100.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10805701731977722,
+                    "TimePercent": -4.708500000000015,
+                    "SingleAvg": 0.10804578436382216,
+                    "CPUPercent": 0.01108798782670963,
+                    "MaxMemory": 0.00015530361857431278
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7902212231134728,
+                    "TimePercent": -0.10349999999999682,
+                    "SingleAvg": 0.7903934593765968,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.00015228686085620908
                 }
             },
             "Benchmark": {
@@ -5548,6 +6052,34 @@
                     "MaxMemory": 0.02545210652276477
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "19.565s",
+                "TimePercent": 99.5325,
+                "SingleAvg": "1.9580000000000002s",
+                "SingleMin": "1.4s",
+                "SingleMax": "3.66s",
+                "Correct": 9.6,
+                "ShorterCorrect": 3.4,
+                "Shorter": 6.8,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 48.7,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.12542806031178125,
+                    "TimePercent": -4.272499999999994,
+                    "SingleAvg": 0.12531639427987745,
+                    "CPUPercent": 0.012386612449171098,
+                    "MaxMemory": 0.00023815194093831864
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.9098134423715818,
+                    "TimePercent": -0.034000000000006025,
+                    "SingleAvg": 0.9088355464759957,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.000230935840430551
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "17.8005s",
                 "TimePercent": 99.49849999999999,
@@ -5832,6 +6364,34 @@
                     "SingleAvg": 0.3348161783504628,
                     "CPUPercent": 253.30909090909088,
                     "MaxMemory": 0.01903932216789568
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "39.171499999999995s",
+                "TimePercent": 99.6275,
+                "SingleAvg": "3.9170000000000003s",
+                "SingleMin": "3.04s",
+                "SingleMax": "5.51s",
+                "Correct": 9.6,
+                "ShorterCorrect": 1.6,
+                "Shorter": 3.2,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 87.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10836960545294415,
+                    "TimePercent": -4.795000000000002,
+                    "SingleAvg": 0.10836801123308652,
+                    "CPUPercent": 0.011483853006681515,
+                    "MaxMemory": 0.00015342129487572875
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8356330495385678,
+                    "TimePercent": -0.04349999999999454,
+                    "SingleAvg": 0.8358437579780443,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.00015058752664693343
                 }
             },
             "Benchmark": {
@@ -6120,6 +6680,34 @@
                     "MaxMemory": 0.015376337387776417
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "54.352s",
+                "TimePercent": 99.672,
+                "SingleAvg": "5.435s",
+                "SingleMin": "4.88s",
+                "SingleMax": "8.2s",
+                "Correct": 10.0,
+                "ShorterCorrect": 0.1,
+                "Shorter": 0.2,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 132.3,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10103584044745365,
+                    "TimePercent": -4.721499999999992,
+                    "SingleAvg": 0.10104277828886843,
+                    "CPUPercent": 0.010830680363648298,
+                    "MaxMemory": 0.00011280315848843768
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8096850161907565,
+                    "TimePercent": -0.06699999999999307,
+                    "SingleAvg": 0.8097516099356026,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0001111301874952927
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "44.007999999999996s",
                 "TimePercent": 99.605,
@@ -6404,6 +6992,34 @@
                     "SingleAvg": 0.17835136752136754,
                     "CPUPercent": 252.47580645161287,
                     "MaxMemory": 0.03060291799860671
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "9.457500000000001s",
+                "TimePercent": 99.53949999999999,
+                "SingleAvg": "945.6205000000001ms",
+                "SingleMin": "707.2ms",
+                "SingleMax": "1.4s",
+                "Correct": 9.7,
+                "ShorterCorrect": 3.3,
+                "Shorter": 7.0,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 21.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.14205656886069257,
+                    "TimePercent": -3.5864999999999867,
+                    "SingleAvg": 0.14204429789751807,
+                    "CPUPercent": 0.012426406112990104,
+                    "MaxMemory": 0.0005425935973955507
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.1038329368226272,
+                    "TimePercent": -0.023999999999972488,
+                    "SingleAvg": 1.1033554158354224,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0005059313534157777
                 }
             },
             "Benchmark": {
@@ -6692,6 +7308,34 @@
                     "MaxMemory": 0.04086360054796491
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "14.948500000000003s",
+                "TimePercent": 99.607,
+                "SingleAvg": "1.4950000000000003s",
+                "SingleMin": "1.39s",
+                "SingleMax": "1.89s",
+                "Correct": 9.9,
+                "ShorterCorrect": 5.0,
+                "Shorter": 10.4,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 33.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.13459544435896578,
+                    "TimePercent": -3.319500000000005,
+                    "SingleAvg": 0.1345602006688963,
+                    "CPUPercent": 0.011963601648318448,
+                    "MaxMemory": 0.00043782837127845885
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.151051945011205,
+                    "TimePercent": -0.010499999999993292,
+                    "SingleAvg": 1.1505016722408024,
+                    "CPUPercent": 0.9989909182643795,
+                    "MaxMemory": 0.0004184934888298203
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "17.2065s",
                 "TimePercent": 99.5965,
@@ -6976,6 +7620,34 @@
                     "SingleAvg": 0.17304027617951667,
                     "CPUPercent": 250.82275931520647,
                     "MaxMemory": 0.041786660152734564
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.7314999999999996s",
+                "TimePercent": 99.542,
+                "SingleAvg": "373.078ms",
+                "SingleMin": "345.67ms",
+                "SingleMax": "460.66ms",
+                "Correct": 7.8,
+                "ShorterCorrect": 1.2,
+                "Shorter": 2.8,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.2,
+                "InvoluntaryContextSwitch": 5.7,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1737191477957926,
+                    "TimePercent": -2.689000000000007,
+                    "SingleAvg": 0.17375052937991525,
+                    "CPUPercent": 0.012538867962686757,
+                    "MaxMemory": 0.002004008016032064
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.208629237572022,
+                    "TimePercent": 0.01649999999999352,
+                    "SingleAvg": 1.2091734168190031,
+                    "CPUPercent": 0.9989929506545822,
+                    "MaxMemory": 0.0016456249517883316
                 }
             },
             "Benchmark": {
@@ -7264,6 +7936,34 @@
                     "MaxMemory": 0.041373048627935054
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "13.091999999999999s",
+                "TimePercent": 99.591,
+                "SingleAvg": "1.3095s",
+                "SingleMin": "1.14s",
+                "SingleMax": "1.65s",
+                "Correct": 9.8,
+                "ShorterCorrect": 3.8,
+                "Shorter": 7.8,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 22.3,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.13099602810876876,
+                    "TimePercent": -3.546999999999997,
+                    "SingleAvg": 0.1309377625047728,
+                    "CPUPercent": 0.011748281532837216,
+                    "MaxMemory": 0.0004752851711026616
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.096509318667889,
+                    "TimePercent": 0.0010000000000189857,
+                    "SingleAvg": 1.0966017563955708,
+                    "CPUPercent": 1.0020181634712413,
+                    "MaxMemory": 0.00044570456577319734
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "14.355500000000001s",
                 "TimePercent": 99.59200000000001,
@@ -7548,6 +8248,34 @@
                     "SingleAvg": 0.6711991711991713,
                     "CPUPercent": 251.46666666666667,
                     "MaxMemory": 0.008821620146328434
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.2575000000000003m",
+                "TimePercent": 97.53050000000002,
+                "SingleAvg": "7.5525s",
+                "SingleMin": "6.11s",
+                "SingleMax": "15.76s",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.6,
+                "Shorter": 3.2,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 152.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.11806494367130548,
+                    "TimePercent": -39.26850000000003,
+                    "SingleAvg": 0.11796928169480304,
+                    "CPUPercent": 0.013045196995651601,
+                    "MaxMemory": 4.0455014616349375e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.0294234592445326,
+                    "TimePercent": -3.9580000000000126,
+                    "SingleAvg": 1.0293942403177756,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 4.024762983122879e-05
                 }
             },
             "Benchmark": {
@@ -7836,6 +8564,34 @@
                     "MaxMemory": 0.009490464762859906
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "31.1395s",
+                "TimePercent": 95.81299999999999,
+                "SingleAvg": "3.115s",
+                "SingleMin": "1.83s",
+                "SingleMax": "8.0s",
+                "Correct": 9.6,
+                "ShorterCorrect": 2.8,
+                "Shorter": 5.8,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 56.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.14648597440549785,
+                    "TimePercent": -43.431999999999995,
+                    "SingleAvg": 0.14639036918138043,
+                    "CPUPercent": 0.016482693172169223,
+                    "MaxMemory": 7.34264300155773e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.221230270235553,
+                    "TimePercent": -4.144999999999982,
+                    "SingleAvg": 1.220545746388443,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 7.277287982184289e-05
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "38.02850000000001s",
                 "TimePercent": 91.668,
@@ -8120,6 +8876,34 @@
                     "SingleAvg": 0.6283508284896331,
                     "CPUPercent": 251.58383838383838,
                     "MaxMemory": 0.008277354751603317
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.0746250000000002m",
+                "TimePercent": 96.61100000000002,
+                "SingleAvg": "6.449000000000001s",
+                "SingleMin": "3.9s",
+                "SingleMax": "15.59s",
+                "Correct": 10.0,
+                "ShorterCorrect": 2.6,
+                "Shorter": 5.2,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 134.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1268814702803303,
+                    "TimePercent": -41.93050000000001,
+                    "SingleAvg": 0.12683284230113193,
+                    "CPUPercent": 0.014443066598584872,
+                    "MaxMemory": 4.1418998716739106e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.1240742894808269,
+                    "TimePercent": -4.346500000000006,
+                    "SingleAvg": 1.1231198635447355,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 4.1198884314900774e-05
                 }
             },
             "Benchmark": {
@@ -8408,6 +9192,34 @@
                     "MaxMemory": 0.00941814717229024
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.463m",
+                "TimePercent": 95.8305,
+                "SingleAvg": "8.781s",
+                "SingleMin": "6.41s",
+                "SingleMax": "17.67s",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.5,
+                "Shorter": 3.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 178.3,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.11862041467304622,
+                    "TimePercent": -44.649,
+                    "SingleAvg": 0.11864787609611663,
+                    "CPUPercent": 0.014660802345728375,
+                    "MaxMemory": 3.879276902785321e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.073758259284575,
+                    "TimePercent": -4.5049999999999955,
+                    "SingleAvg": 1.0727707550392893,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 3.860205376497064e-05
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "1.5709083333333331m",
                 "TimePercent": 91.3255,
@@ -8692,6 +9504,34 @@
                     "SingleAvg": 1.122774771095,
                     "CPUPercent": 251.5979797979798,
                     "MaxMemory": 0.006173927747531291
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "2.7275m",
+                "TimePercent": 95.588,
+                "SingleAvg": "16.3625s",
+                "SingleMin": "8.63s",
+                "SingleMax": "47.75s",
+                "Correct": 10.0,
+                "ShorterCorrect": 0.7,
+                "Shorter": 1.4,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 350.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1020592728383746,
+                    "TimePercent": -49.00949999999999,
+                    "SingleAvg": 0.10206264323911382,
+                    "CPUPercent": 0.015325314633353458,
+                    "MaxMemory": 3.484980465901729e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.0078826764436295,
+                    "TimePercent": -4.9210000000000065,
+                    "SingleAvg": 1.007975553857907,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 3.47700659612599e-05
                 }
             },
             "Benchmark": {
@@ -8980,6 +9820,34 @@
                     "MaxMemory": 0.011026752092413208
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "15.2865s",
+                "TimePercent": 94.89599999999999,
+                "SingleAvg": "1.5289999999999997s",
+                "SingleMin": "916.24ms",
+                "SingleMax": "3.41s",
+                "Correct": 8.9,
+                "ShorterCorrect": 3.0,
+                "Shorter": 6.1,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 26.7,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.16308507506623493,
+                    "TimePercent": -43.20249999999999,
+                    "SingleAvg": 0.1630049051667757,
+                    "CPUPercent": 0.017707345865603033,
+                    "MaxMemory": 0.0001630212940197294
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.2834200111209237,
+                    "TimePercent": -4.472999999999985,
+                    "SingleAvg": 1.28319162851537,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.00016528183943192114
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "19.619s",
                 "TimePercent": 90.423,
@@ -9264,6 +10132,34 @@
                     "SingleAvg": 0.34211607601438104,
                     "CPUPercent": 257.2328205128205,
                     "MaxMemory": 0.013944244121851952
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "24.561s",
+                "TimePercent": 96.212,
+                "SingleAvg": "2.4555s",
+                "SingleMin": "1.86s",
+                "SingleMax": "5.59s",
+                "Correct": 9.9,
+                "ShorterCorrect": 3.9,
+                "Shorter": 7.8,
+                "CPUPercent": 99.0,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 53.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.15050282968934492,
+                    "TimePercent": -43.1935,
+                    "SingleAvg": 0.1505642435349216,
+                    "CPUPercent": 0.015120736792265513,
+                    "MaxMemory": 0.0001282503767981041
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.355869060705997,
+                    "TimePercent": -4.9964999999999975,
+                    "SingleAvg": 1.3563429036856038,
+                    "CPUPercent": 1.0153846153846153,
+                    "MaxMemory": 0.00012859940181184502
                 }
             },
             "Benchmark": {
@@ -9552,6 +10448,34 @@
                     "MaxMemory": 0.012127155216078774
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "6.123s",
+                "TimePercent": 95.83249999999998,
+                "SingleAvg": "612.2565ms",
+                "SingleMin": "455.42ms",
+                "SingleMax": "1.4s",
+                "Correct": 8.3,
+                "ShorterCorrect": 0.7,
+                "Shorter": 1.4,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 12.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.20069247101094234,
+                    "TimePercent": -41.02749999999999,
+                    "SingleAvg": 0.20076226222179758,
+                    "CPUPercent": 0.01792645280089542,
+                    "MaxMemory": 0.0004384289856363129
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.7313408459905275,
+                    "TimePercent": -4.9129999999999825,
+                    "SingleAvg": 1.7319595626996205,
+                    "CPUPercent": 1.0852459016393443,
+                    "MaxMemory": 0.000414936077962599
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "10.601s",
                 "TimePercent": 90.9195,
@@ -9836,6 +10760,34 @@
                     "SingleAvg": 0.326396730655482,
                     "CPUPercent": 263.09119496855345,
                     "MaxMemory": 0.01134814377500693
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "20.696000000000005s",
+                "TimePercent": 94.621,
+                "SingleAvg": "2.0695s",
+                "SingleMin": "1.37s",
+                "SingleMax": "4.86s",
+                "Correct": 9.7,
+                "ShorterCorrect": 3.5,
+                "Shorter": 7.2,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 48.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.15751836103594893,
+                    "TimePercent": -41.752999999999986,
+                    "SingleAvg": 0.1574820004832085,
+                    "CPUPercent": 0.016883891302495953,
+                    "MaxMemory": 0.00012274639300614067
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.4668293390027056,
+                    "TimePercent": -3.9480000000000075,
+                    "SingleAvg": 1.4665378110654745,
+                    "CPUPercent": 1.0387840670859538,
+                    "MaxMemory": 0.00012110237218732644
                 }
             },
             "Benchmark": {
@@ -10124,6 +11076,34 @@
                     "MaxMemory": 0.07527611744920282
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.972s",
+                "TimePercent": 97.1785,
+                "SingleAvg": "197.2075ms",
+                "SingleMin": "123.97ms",
+                "SingleMax": "342.09ms",
+                "Correct": 10.0,
+                "ShorterCorrect": 2.5,
+                "Shorter": 5.6,
+                "CPUPercent": 99.7,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 0.9,
+                "InvoluntaryContextSwitch": 3.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.40909837728194737,
+                    "TimePercent": -1.0409999999999968,
+                    "SingleAvg": 0.4090818046980972,
+                    "CPUPercent": 0.01617561165552599,
+                    "MaxMemory": 0.002551020408163265
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7596348884381339,
+                    "TimePercent": 0.9214999999999947,
+                    "SingleAvg": 0.7595755739512949,
+                    "CPUPercent": 1.0060544904137236,
+                    "MaxMemory": 0.0022719507270686067
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "1.498s",
                 "TimePercent": 98.1,
@@ -10408,6 +11388,34 @@
                     "SingleAvg": 0.07780354242357998,
                     "CPUPercent": 238.6290322580645,
                     "MaxMemory": 0.1632838451630398
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "749.095ms",
+                "TimePercent": 97.07999999999998,
+                "SingleAvg": "74.91ms",
+                "SingleMin": "59.1ms",
+                "SingleMax": "109.56ms",
+                "Correct": 9.2,
+                "ShorterCorrect": 3.7,
+                "Shorter": 7.7,
+                "CPUPercent": 99.4,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 0.9,
+                "InvoluntaryContextSwitch": 1.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.4808141824468191,
+                    "TimePercent": -0.26449999999998397,
+                    "SingleAvg": 0.4808036310238954,
+                    "CPUPercent": 0.017080798707770562,
+                    "MaxMemory": 0.08333333333333333
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.750718533697328,
+                    "TimePercent": 0.835000000000008,
+                    "SingleAvg": 0.750700841009211,
+                    "CPUPercent": 1.002016129032258,
+                    "MaxMemory": 0.006941902243915667
                 }
             },
             "Benchmark": {
@@ -10696,6 +11704,34 @@
                     "MaxMemory": 0.044097359085534096
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "6.324000000000001s",
+                "TimePercent": 99.0395,
+                "SingleAvg": "632.3169999999999ms",
+                "SingleMin": "467.87ms",
+                "SingleMax": "999.11ms",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.1,
+                "Shorter": 2.5,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 14.1,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.2476280834914611,
+                    "TimePercent": -3.5194999999999936,
+                    "SingleAvg": 0.24787883292715526,
+                    "CPUPercent": 0.015246857547271411,
+                    "MaxMemory": 0.0009149130832570906
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.799414927261227,
+                    "TimePercent": -0.2610000000000099,
+                    "SingleAvg": 0.7995079999430666,
+                    "CPUPercent": 1.001010101010101,
+                    "MaxMemory": 0.0008408881881487321
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "5.0555s",
                 "TimePercent": 98.7785,
@@ -10980,6 +12016,34 @@
                     "SingleAvg": 0.08530189311442453,
                     "CPUPercent": 251.34343434343435,
                     "MaxMemory": 0.07687217124975475
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.1165000000000003s",
+                "TimePercent": 98.97049999999999,
+                "SingleAvg": "311.675ms",
+                "SingleMin": "235.56ms",
+                "SingleMax": "464.19ms",
+                "Correct": 9.8,
+                "ShorterCorrect": 2.6,
+                "Shorter": 5.3,
+                "CPUPercent": 99.2,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 4.9,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.2763394833948339,
+                    "TimePercent": -3.0379999999999825,
+                    "SingleAvg": 0.2763664073153124,
+                    "CPUPercent": 0.015240904621435595,
+                    "MaxMemory": 0.002109704641350211
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8169420824643029,
+                    "TimePercent": -0.21399999999999864,
+                    "SingleAvg": 0.8168236143418627,
+                    "CPUPercent": 1.002020202020202,
+                    "MaxMemory": 0.0017026540785548723
                 }
             },
             "Benchmark": {
@@ -11268,6 +12332,34 @@
                     "MaxMemory": 0.08703754332707977
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "4.8255s",
+                "TimePercent": 99.16799999999999,
+                "SingleAvg": "482.49500000000006ms",
+                "SingleMin": "467.57ms",
+                "SingleMax": "492.45ms",
+                "Correct": 9.7,
+                "ShorterCorrect": 0.9,
+                "Shorter": 2.0,
+                "CPUPercent": 99.1,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 8.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.253652471246503,
+                    "TimePercent": -3.190499999999986,
+                    "SingleAvg": 0.2536793127389921,
+                    "CPUPercent": 0.014585541033792535,
+                    "MaxMemory": 0.0018148820326678765
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7929748212620453,
+                    "TimePercent": -0.27949999999998454,
+                    "SingleAvg": 0.7928465579954196,
+                    "CPUPercent": 1.001010101010101,
+                    "MaxMemory": 0.001608954839277353
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "3.8265s",
                 "TimePercent": 98.88850000000001,
@@ -11552,6 +12644,34 @@
                     "SingleAvg": 0.10169678417692433,
                     "CPUPercent": 245.51209677419354,
                     "MaxMemory": 0.175310158457192
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.2095s",
+                "TimePercent": 99.03249999999998,
+                "SingleAvg": "120.89650000000002ms",
+                "SingleMin": "112.16ms",
+                "SingleMax": "124.82ms",
+                "Correct": 8.9,
+                "ShorterCorrect": 0.8,
+                "Shorter": 2.1,
+                "CPUPercent": 99.4,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 2.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.32635965274906986,
+                    "TimePercent": -1.8439999999999799,
+                    "SingleAvg": 0.32650655726179,
+                    "CPUPercent": 0.015029863158690558,
+                    "MaxMemory": 0.019230769230769232
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7968371227780076,
+                    "TimePercent": -0.2739999999999867,
+                    "SingleAvg": 0.7971984300620778,
+                    "CPUPercent": 1.002016129032258,
+                    "MaxMemory": 0.006289153666625722
                 }
             },
             "Benchmark": {
@@ -11840,6 +12960,34 @@
                     "MaxMemory": 0.08847724980107934
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "4.164s",
+                "TimePercent": 99.0755,
+                "SingleAvg": "416.30549999999994ms",
+                "SingleMin": "379.09ms",
+                "SingleMax": "464.8ms",
+                "Correct": 9.8,
+                "ShorterCorrect": 0.9,
+                "Shorter": 1.8,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 0.9,
+                "InvoluntaryContextSwitch": 8.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.2697078530259366,
+                    "TimePercent": -2.920500000000004,
+                    "SingleAvg": 0.2696781570265106,
+                    "CPUPercent": 0.01489604272299061,
+                    "MaxMemory": 0.0020325203252032522
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7983909702209414,
+                    "TimePercent": -0.25499999999999545,
+                    "SingleAvg": 0.7982082869431224,
+                    "CPUPercent": 1.003030303030303,
+                    "MaxMemory": 0.0017045586957462604
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "3.3244999999999996s",
                 "TimePercent": 98.82050000000001,
@@ -12124,6 +13272,34 @@
                     "SingleAvg": 0.061962719588275546,
                     "CPUPercent": 212.8939393939394,
                     "MaxMemory": 0.2951559389515594
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "309.168ms",
+                "TimePercent": 96.0585,
+                "SingleAvg": "30.917ms",
+                "SingleMin": "29.91ms",
+                "SingleMax": "33.66ms",
+                "Correct": 9.9,
+                "ShorterCorrect": 1.0,
+                "Shorter": 2.6,
+                "CPUPercent": 99.7,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 1.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.9670211664855353,
+                    "TimePercent": 0.840999999999994,
+                    "SingleAvg": 0.967008441957499,
+                    "CPUPercent": 0.020890956332243738,
+                    "MaxMemory": 0.14285714285714285
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.5303960953268125,
+                    "TimePercent": -1.2644999999999982,
+                    "SingleAvg": 0.5303878125303232,
+                    "CPUPercent": 1.007070707070707,
+                    "MaxMemory": 0.022649856226498562
                 }
             },
             "Benchmark": {
@@ -12412,6 +13588,34 @@
                     "MaxMemory": 0.08701894051079005
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "2.6595s",
+                "TimePercent": 98.10499999999999,
+                "SingleAvg": "265.92400000000004ms",
+                "SingleMin": "199.85ms",
+                "SingleMax": "401.23ms",
+                "Correct": 9.7,
+                "ShorterCorrect": 2.8,
+                "Shorter": 5.7,
+                "CPUPercent": 99.4,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 4.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.30774055273547657,
+                    "TimePercent": -2.287000000000006,
+                    "SingleAvg": 0.3077721454250086,
+                    "CPUPercent": 0.015406314419008357,
+                    "MaxMemory": 0.0023148148148148147
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8257191201353637,
+                    "TimePercent": 0.5240000000000009,
+                    "SingleAvg": 0.8255836253967298,
+                    "CPUPercent": 1.002016129032258,
+                    "MaxMemory": 0.0017971722617693723
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "2.1959999999999997s",
                 "TimePercent": 98.62899999999999,
@@ -12696,6 +13900,34 @@
                     "SingleAvg": 0.08091227849722465,
                     "CPUPercent": 245.67641129032256,
                     "MaxMemory": 0.19063799024037592
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.0434999999999999s",
+                "TimePercent": 98.24249999999999,
+                "SingleAvg": "104.30699999999999ms",
+                "SingleMin": "93.71ms",
+                "SingleMax": "115.72ms",
+                "Correct": 9.2,
+                "ShorterCorrect": 1.5,
+                "Shorter": 3.5,
+                "CPUPercent": 99.7,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 1.7,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.36605893627216096,
+                    "TimePercent": -1.191999999999993,
+                    "SingleAvg": 0.366221825956072,
+                    "CPUPercent": 0.01543702098010374,
+                    "MaxMemory": 0.07142857142857142
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.8021739338763777,
+                    "TimePercent": 0.4930000000000092,
+                    "SingleAvg": 0.8025156509150874,
+                    "CPUPercent": 1.0050403225806452,
+                    "MaxMemory": 0.006169046328092054
                 }
             },
             "Benchmark": {
@@ -12984,6 +14216,34 @@
                     "MaxMemory": 0.08754801868835439
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.6454999999999997s",
+                "TimePercent": 98.252,
+                "SingleAvg": "364.65649999999994ms",
+                "SingleMin": "297.59ms",
+                "SingleMax": "426.51ms",
+                "Correct": 9.7,
+                "ShorterCorrect": 1.2,
+                "Shorter": 3.3,
+                "CPUPercent": 99.3,
+                "MaxMemory": 2048,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 6.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.30571951721300233,
+                    "TimePercent": -2.0515000000000043,
+                    "SingleAvg": 0.30561226798370533,
+                    "CPUPercent": 0.015285153544216116,
+                    "MaxMemory": 0.002188183807439825
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.7989301879028942,
+                    "TimePercent": 0.6960000000000122,
+                    "SingleAvg": 0.7986008750701005,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.001771932860356463
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "2.9125000000000005s",
                 "TimePercent": 98.94800000000001,
@@ -13268,6 +14528,109 @@
                     "SingleAvg": 1.3695983473313467,
                     "CPUPercent": 251.23333333333332,
                     "MaxMemory": 0.008231811623139912
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "5.1155m",
+                "TimePercent": 96.9665,
+                "SingleAvg": "30.694499999999998s",
+                "SingleMin": "30.17s",
+                "SingleMax": "31.96s",
+                "Correct": 10.0,
+                "ShorterCorrect": 1.0,
+                "Shorter": 2.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 750.1,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10734695207376274,
+                    "TimePercent": -69.1815,
+                    "SingleAvg": 0.10734822199416835,
+                    "CPUPercent": 0.02433030228557385,
+                    "MaxMemory": 5.750620522279892e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.317564265467696,
+                    "TimePercent": -6.504166666666677,
+                    "SingleAvg": 1.3175487465181062,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 5.7206870098170116e-05
+                }
+            },
+            "wfa-med": {
+                "TimeFullAlign": "84.18199999999999m",
+                "TimePercent": 100.0,
+                "SingleAvg": "8.41815m",
+                "SingleMin": "466.2s",
+                "SingleMax": "586.57s",
+                "CPUPercent": 11745.1,
+                "MaxMemory": 14056148,
+                "VoluntaryContextSwitch": 851317.6,
+                "InvoluntaryContextSwitch": 3333520.0,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.006523168056512478,
+                    "TimePercent": -72.215,
+                    "SingleAvg": 0.006523602770996795,
+                    "CPUPercent": 2.8864831653969034,
+                    "MaxMemory": 0.19734270789307484
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.08006462189066546,
+                    "TimePercent": -9.53766666666668,
+                    "SingleAvg": 0.08006806721191712,
+                    "CPUPercent": 118.63737373737374,
+                    "MaxMemory": 0.19631548650308928
+                }
+            },
+            "wfa-low": {
+                "TimeFullAlign": "197.803m",
+                "TimePercent": 100.0,
+                "SingleAvg": "19.780233333333335m",
+                "SingleMin": "1055.96s",
+                "SingleMax": "1422.72s",
+                "CPUPercent": 9262.8,
+                "MaxMemory": 8464640,
+                "VoluntaryContextSwitch": 1187252.3,
+                "InvoluntaryContextSwitch": 6169008.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.0027761628151915458,
+                    "TimePercent": -72.215,
+                    "SingleAvg": 0.0027763406902850825,
+                    "CPUPercent": 2.2764315556647823,
+                    "MaxMemory": 0.1188401672307404
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.03407430625420241,
+                    "TimePercent": -9.53766666666668,
+                    "SingleAvg": 0.03407568498517881,
+                    "CPUPercent": 93.56363636363636,
+                    "MaxMemory": 0.11822157248724968
+                }
+            },
+            "wfa-ultra-low": {
+                "TimeFullAlign": "30.265000000000004m",
+                "TimePercent": 100.0,
+                "SingleAvg": "3.0264333333333338m",
+                "SingleMin": "140.47s",
+                "SingleMax": "208.02s",
+                "CPUPercent": 12319.4,
+                "MaxMemory": 94208,
+                "VoluntaryContextSwitch": 18883.3,
+                "InvoluntaryContextSwitch": 127189.3,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.018144170934522825,
+                    "TimePercent": -72.215,
+                    "SingleAvg": 0.018145672023173593,
+                    "CPUPercent": 3.0276234947161464,
+                    "MaxMemory": 0.0013226427201243752
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.2226994878572608,
+                    "TimePercent": -9.53766666666668,
+                    "SingleAvg": 0.22271265405923366,
+                    "CPUPercent": 124.43838383838383,
+                    "MaxMemory": 0.0013157580122579128
                 }
             },
             "Benchmark": {
@@ -13556,6 +14919,34 @@
                     "MaxMemory": 0.007111585951685091
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.9299999999999997m",
+                "TimePercent": 96.679,
+                "SingleAvg": "11.576500000000001s",
+                "SingleMin": "8.9s",
+                "SingleMax": "18.5s",
+                "Correct": 9.4,
+                "ShorterCorrect": 2.5,
+                "Shorter": 5.2,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 253.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.11803972366148534,
+                    "TimePercent": -64.989,
+                    "SingleAvg": 0.11804085863602987,
+                    "CPUPercent": 0.020244984765137725,
+                    "MaxMemory": 9.231188905913902e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.485233160621762,
+                    "TimePercent": -6.838000000000008,
+                    "SingleAvg": 1.4862868742711526,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 9.176586834841959e-05
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "2.8665000000000003m",
                 "TimePercent": 89.841,
@@ -13840,6 +15231,34 @@
                     "SingleAvg": 1.2647266313932983,
                     "CPUPercent": 251.90918264379417,
                     "MaxMemory": 0.0076499564504322526
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "3.9290000000000003m",
+                "TimePercent": 96.82399999999998,
+                "SingleAvg": "23.5785s",
+                "SingleMin": "19.02s",
+                "SingleMax": "30.59s",
+                "Correct": 9.8,
+                "ShorterCorrect": 2.7,
+                "Shorter": 5.4,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 0.9,
+                "InvoluntaryContextSwitch": 542.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.1086323916178841,
+                    "TimePercent": -69.63899999999998,
+                    "SingleAvg": 0.10857348855949277,
+                    "CPUPercent": 0.02463851073890645,
+                    "MaxMemory": 5.951007978128186e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.3687961313311272,
+                    "TimePercent": -6.513499999999979,
+                    "SingleAvg": 1.3685985113556844,
+                    "CPUPercent": 0.9989909182643795,
+                    "MaxMemory": 5.9301539060255926e-05
                 }
             },
             "Benchmark": {
@@ -14128,6 +15547,34 @@
                     "MaxMemory": 0.0073566275496277506
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "5.566000000000001m",
+                "TimePercent": 96.98049999999999,
+                "SingleAvg": "33.4005s",
+                "SingleMin": "30.93s",
+                "SingleMax": "44.08s",
+                "Correct": 9.9,
+                "ShorterCorrect": 5.7,
+                "Shorter": 11.4,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 985.6,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.10217990178464487,
+                    "TimePercent": -67.49549999999999,
+                    "SingleAvg": 0.10221403871199533,
+                    "CPUPercent": 0.02128666035950804,
+                    "MaxMemory": 4.52742623290681e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.3073122529644265,
+                    "TimePercent": -6.456999999999994,
+                    "SingleAvg": 1.3070463017020704,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 4.5148102309303386e-05
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "7.2764999999999995m",
                 "TimePercent": 90.5235,
@@ -14412,6 +15859,109 @@
                     "SingleAvg": 2.493958305669898,
                     "CPUPercent": 256.7806652806653,
                     "MaxMemory": 0.007218637177436459
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "9.7805m",
+                "TimePercent": 98.36699999999999,
+                "SingleAvg": "58.68099999999998s",
+                "SingleMin": "41.41s",
+                "SingleMax": "142.19s",
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 1852.4,
+                "Correct": 10.0,
+                "ShorterCorrect": 3.1666666666666665,
+                "Shorter": 6.333333333333333,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.0948315525791115,
+                    "TimePercent": -71.13899999999998,
+                    "SingleAvg": 0.09483478468328761,
+                    "CPUPercent": 0.02371939240021084,
+                    "MaxMemory": 1.484085437349326e-05
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.2802515208833904,
+                    "TimePercent": -10.335499999999996,
+                    "SingleAvg": 1.2802781138699073,
+                    "CPUPercent": 1.029106029106029,
+                    "MaxMemory": 2.4464935261218014e-05
+                }
+            },
+            "wfa-med": {
+                "TimeFullAlign": "91.962m",
+                "TimePercent": 100.0,
+                "SingleAvg": "9.196200000000001m",
+                "SingleMin": "506.22s",
+                "SingleMax": "652.84s",
+                "CPUPercent": 14233.8,
+                "MaxMemory": 13456092,
+                "VoluntaryContextSwitch": 1546163.1,
+                "InvoluntaryContextSwitch": 5267601.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.010085687566603597,
+                    "TimePercent": -72.77199999999999,
+                    "SingleAvg": 0.010085687566603593,
+                    "CPUPercent": 3.41027361157698,
+                    "MaxMemory": 0.04875485883992375
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.13615950066331745,
+                    "TimePercent": -11.968500000000006,
+                    "SingleAvg": 0.1361576883205382,
+                    "CPUPercent": 147.96049896049894,
+                    "MaxMemory": 0.0803716844846176
+                }
+            },
+            "wfa-low": {
+                "TimeFullAlign": "196.02900000000002m",
+                "TimePercent": 100.0,
+                "SingleAvg": "19.602966666666667m",
+                "SingleMin": "941.73s",
+                "SingleMax": "1376.48s",
+                "CPUPercent": 12190.4,
+                "MaxMemory": 8125796,
+                "VoluntaryContextSwitch": 1985140.9,
+                "InvoluntaryContextSwitch": 9368677.1,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.004731442796729055,
+                    "TimePercent": -72.77199999999999,
+                    "SingleAvg": 0.004731426705821737,
+                    "CPUPercent": 2.920695768843739,
+                    "MaxMemory": 0.029441834742361825
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.06387575307735079,
+                    "TimePercent": -11.968500000000006,
+                    "SingleAvg": 0.06387468563431727,
+                    "CPUPercent": 126.71933471933471,
+                    "MaxMemory": 0.04853444167135359
+                }
+            },
+            "wfa-ultra-low": {
+                "TimeFullAlign": "34.665m",
+                "TimePercent": 100.0,
+                "SingleAvg": "3.4664499999999996m",
+                "SingleMin": "163.05s",
+                "SingleMax": "270.4s",
+                "CPUPercent": 15618.6,
+                "MaxMemory": 139264,
+                "VoluntaryContextSwitch": 62706.4,
+                "InvoluntaryContextSwitch": 660661.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.026756094042982837,
+                    "TimePercent": -72.77199999999999,
+                    "SingleAvg": 0.02675647997230596,
+                    "CPUPercent": 3.742057597393263,
+                    "MaxMemory": 0.0005045890486987709
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.3612144814654551,
+                    "TimePercent": -11.968500000000006,
+                    "SingleAvg": 0.3612148836225342,
+                    "CPUPercent": 162.35550935550935,
+                    "MaxMemory": 0.0008318077988814125
                 }
             },
             "Benchmark": {
@@ -14700,6 +16250,34 @@
                     "MaxMemory": 0.006918115262447164
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "57.978s",
+                "TimePercent": 93.5355,
+                "SingleAvg": "5.7985s",
+                "SingleMin": "4.5s",
+                "SingleMax": "8.93s",
+                "Correct": 8.4,
+                "ShorterCorrect": 1.6,
+                "Shorter": 3.3,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 145.8,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.11619924799061714,
+                    "TimePercent": -63.070499999999996,
+                    "SingleAvg": 0.11620539794774509,
+                    "CPUPercent": 0.022516887665749313,
+                    "MaxMemory": 0.00017983280466469435
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.541446755665942,
+                    "TimePercent": -4.373999999999995,
+                    "SingleAvg": 1.5398810037078556,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0001778060847534234
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "1.4894999999999998m",
                 "TimePercent": 89.1615,
@@ -14984,6 +16562,34 @@
                     "SingleAvg": 0.6771468680414368,
                     "CPUPercent": 254.7070707070707,
                     "MaxMemory": 0.009707181610363954
+                }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.5335m",
+                "TimePercent": 96.57650000000001,
+                "SingleAvg": "9.197999999999999s",
+                "SingleMin": "8.91s",
+                "SingleMax": "9.66s",
+                "Correct": 9.0,
+                "ShorterCorrect": 1.7,
+                "Shorter": 3.7,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 290.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.12207368764264756,
+                    "TimePercent": -66.4475,
+                    "SingleAvg": 0.1221439443357252,
+                    "CPUPercent": 0.023876133513409226,
+                    "MaxMemory": 0.00016614823765233837
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.5194000652103035,
+                    "TimePercent": -6.866500000000002,
+                    "SingleAvg": 1.5208197434224833,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0001643054971901995
                 }
             },
             "Benchmark": {
@@ -15272,6 +16878,34 @@
                     "MaxMemory": 0.01226948934269991
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "23.0165s",
+                "TimePercent": 96.5635,
+                "SingleAvg": "2.302s",
+                "SingleMin": "2.14s",
+                "SingleMax": "2.39s",
+                "Correct": 7.0,
+                "ShorterCorrect": 0.0,
+                "Shorter": 0.1,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 66.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.12942888797167248,
+                    "TimePercent": -66.6315,
+                    "SingleAvg": 0.1294118158123371,
+                    "CPUPercent": 0.02595836173894803,
+                    "MaxMemory": 0.0006879944960440316
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.190406882019421,
+                    "TimePercent": -10.016500000000008,
+                    "SingleAvg": 1.189834926151173,
+                    "CPUPercent": 1.0,
+                    "MaxMemory": 0.0006636710732092709
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "27.399s",
                 "TimePercent": 86.547,
@@ -15558,6 +17192,109 @@
                     "MaxMemory": 0.00959563116515847
                 }
             },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "1.3365m",
+                "TimePercent": 93.2175,
+                "SingleAvg": "8.02s",
+                "SingleMin": "7.18s",
+                "SingleMax": "8.8s",
+                "Correct": 8.8,
+                "ShorterCorrect": 1.3,
+                "Shorter": 3.0,
+                "CPUPercent": 99.0,
+                "MaxMemory": 4096,
+                "VoluntaryContextSwitch": 1.0,
+                "InvoluntaryContextSwitch": 234.9,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.12198528494824791,
+                    "TimePercent": -63.2135,
+                    "SingleAvg": 0.1218865336658354,
+                    "CPUPercent": 0.02273875694795351,
+                    "MaxMemory": 0.0001836137627122048
+                },
+                "Speedup": {
+                    "TimeFullAlign": 1.5387205387205385,
+                    "TimePercent": -3.573999999999998,
+                    "SingleAvg": 1.539214463840399,
+                    "CPUPercent": 0.9989909182643795,
+                    "MaxMemory": 0.00018144414656576197
+                }
+            },
+            "wfa-med": {
+                "TimeFullAlign": "67.946m",
+                "TimePercent": 100.0,
+                "SingleAvg": "6.7945666666666655m",
+                "SingleMin": "345.14s",
+                "SingleMax": "473.28s",
+                "CPUPercent": 9627.2,
+                "MaxMemory": 12103004,
+                "VoluntaryContextSwitch": 425500.3,
+                "InvoluntaryContextSwitch": 1787685.4,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.0023994544687447874,
+                    "TimePercent": -69.99600000000001,
+                    "SingleAvg": 0.002397822770154585,
+                    "CPUPercent": 2.2112177867609906,
+                    "MaxMemory": 0.542548365371305
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.03026668236540782,
+                    "TimePercent": -10.356499999999997,
+                    "SingleAvg": 0.03028032202200779,
+                    "CPUPercent": 97.14631685166499,
+                    "MaxMemory": 0.5361375077299814
+                }
+            },
+            "wfa-low": {
+                "TimeFullAlign": "167.779m",
+                "TimePercent": 100.0,
+                "SingleAvg": "16.7779m",
+                "SingleMin": "765.48s",
+                "SingleMax": "1268.19s",
+                "CPUPercent": 7397.6,
+                "MaxMemory": 7320156,
+                "VoluntaryContextSwitch": 647586.0,
+                "InvoluntaryContextSwitch": 3382948.5,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.0009717147755877275,
+                    "TimePercent": -69.99600000000001,
+                    "SingleAvg": 0.0009710492175222566,
+                    "CPUPercent": 1.6991134181634435,
+                    "MaxMemory": 0.3281448698242974
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.012257195477383938,
+                    "TimePercent": -10.356499999999997,
+                    "SingleAvg": 0.012262659013742285,
+                    "CPUPercent": 74.64783047426842,
+                    "MaxMemory": 0.32426744583697314
+                }
+            },
+            "wfa-ultra-low": {
+                "TimeFullAlign": "25.674m",
+                "TimePercent": 100.0,
+                "SingleAvg": "2.56745m",
+                "SingleMin": "89.93s",
+                "SingleMax": "192.97s",
+                "CPUPercent": 9046.6,
+                "MaxMemory": 55296,
+                "VoluntaryContextSwitch": 10520.5,
+                "InvoluntaryContextSwitch": 84695.2,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.006350133728025759,
+                    "TimePercent": -69.99600000000001,
+                    "SingleAvg": 0.006345660739904055,
+                    "CPUPercent": 2.0778630162157197,
+                    "MaxMemory": 0.002478785796614765
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.08010049076887123,
+                    "TimePercent": -10.356499999999997,
+                    "SingleAvg": 0.0801346342350062,
+                    "CPUPercent": 91.28758829465187,
+                    "MaxMemory": 0.002449495978637787
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "2.0564999999999998m",
                 "TimePercent": 89.6435,
@@ -15713,6 +17450,17 @@
                     "CPUPercent": 0.9656383186705768,
                     "MaxMemory": 191.75464049498612
                 }
+            },
+            "hirschberg RAW single": {
+                "TimeFullAlign": "43.907000000000004m",
+                "TimePercent": 100.0,
+                "SingleAvg": "4.3906833333333335m",
+                "SingleMin": "258.68s",
+                "SingleMax": "278.72s",
+                "CPUPercent": 99.0,
+                "MaxMemory": 9440,
+                "VoluntaryContextSwitch": 1.1,
+                "InvoluntaryContextSwitch": 9590.3
             }
         }
     }

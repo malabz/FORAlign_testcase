@@ -12,7 +12,7 @@ Citations:
 
 ## Test cases used in WFA2-test program provided by FORAlign
 
-The generated test data is saved in `test_case.tar.xz`. This data also saved at [`Zenodo`](https://zenodo.org/records/10906782). The following command provides the way to decompress the file:
+The generated test data is saved in `test_case.tar.xz`. This data also saved at [`Zenodo`](https://zenodo.org/records/14041368). The following command provides the way to decompress the file:
 
 ```bash
 mkdir test_case
