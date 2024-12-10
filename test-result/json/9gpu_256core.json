@@ -16906,6 +16906,31 @@
                     "MaxMemory": 0.0006636710732092709
                 }
             },
+            "wfa-ultra-low": {
+                "TimeFullAlign": "22.919m",
+                "TimePercent": 100.0,
+                "SingleAvg": "2.2918m",
+                "SingleMin": "79.18s",
+                "SingleMax": "160.4s",
+                "CPUPercent": 8374.9,
+                "MaxMemory": 45056,
+                "VoluntaryContextSwitch": 8617.8,
+                "InvoluntaryContextSwitch": 72080.3,
+                "SpeedupConditionVarible": {
+                    "TimeFullAlign": 0.002166324883284611,
+                    "TimePercent": -70.068,
+                    "SingleAvg": 0.002166463042150275,
+                    "CPUPercent": 2.195946300277938,
+                    "MaxMemory": 0.007567939456484348
+                },
+                "Speedup": {
+                    "TimeFullAlign": 0.01992451677647367,
+                    "TimePercent": -13.453000000000003,
+                    "SingleAvg": 0.019918841085609564,
+                    "CPUPercent": 84.59494949494949,
+                    "MaxMemory": 0.00730038180530198
+                }
+            },
             "Benchmark": {
                 "TimeFullAlign": "27.399s",
                 "TimePercent": 86.547,
